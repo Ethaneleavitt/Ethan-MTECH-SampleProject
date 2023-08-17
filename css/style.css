@@ -5,4 +5,12 @@ body {
 }
 ul {
     list-style: none;
+    margin: none;
+    padding: none;
+}
+li {
+    padding: 5px;
+    border: solid black 1px;
+    width: 100px;
+    margin: 15px 15px 15px 0px;
 }
