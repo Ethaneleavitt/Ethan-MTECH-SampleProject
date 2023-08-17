@@ -1,0 +1,8 @@
+body {
+    background-image: url(images/blue-sky.jpg);
+    background-color: antiquewhite;
+    font-family: 'Montserrat', sans-serif; 
+}
+ul {
+    list-style: none;
+}
